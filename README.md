@@ -33,6 +33,7 @@ We need to store all **personal information** records on our personal budget fro
 ![Table Appears in HTML](file%20to%20be%20parsed%20-%20personalinformation.png?raw=true "Table Appears in HTML")
 
 ## Data Once Inputed to Postgres
+This is a simple composite of how the data should appear in the PostgreSQL table after a successful INSERT has completed. The affected columns and subsequent records should appear as such:
 |Reference|Report Date|Type|ChesterPA|AllenTX|AtlantaGA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |M54898847|05/23/2024|Credit Report Date:|05/23/2024|05/23/2024|05/23/2024|
