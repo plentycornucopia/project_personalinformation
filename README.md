@@ -46,6 +46,6 @@ This is a simple composite of how the data should appear in the PostgreSQL table
 |M54898847|05/23/2024|Employers:|A1A CAR WASH BENEKE FABRICATORS|BENEKE FABRICATORS INC A1A CAR WASH LLC|A1A CAR WASH BENEKE FABRICATORS BENEKE FABRICATORS INCORPORATED|
 
 ## Screenshot of Reference Table
-This is a simple ER Diagram of the full table this data will be sent to in PostgreSQL. While all columns are shown here the only ones relevant to this project are found in the diagram ⬆.
+This is a simple ER Diagram of the full table this data will be sent to in PostgreSQL. While all columns are shown here the only ones relevant to this project are found in the diagram ⬆ above. Again, this is a direct screenshot from the database for overall context. The actual PostgreSQL db is available upon request if needed.
 
 ![Table Appears in HTML](personalinformation_reference.png?raw=true "Table Appears in HTML")
