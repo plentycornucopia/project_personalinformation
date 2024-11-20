@@ -47,4 +47,5 @@ This is a simple composite of how the data should appear in the PostgreSQL table
 
 ## Screenshot of Reference Table
 This is a simple ER Diagram of the full table this data will be sent to in PostgreSQL. While all columns are shown here the only ones relevant to this project are found in the diagram ⬆.
+
 ![Table Appears in HTML](personalinformation_reference.png?raw=true "Table Appears in HTML")
