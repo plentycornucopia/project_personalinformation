@@ -10,6 +10,9 @@ We need a PHP solution to parse this HTML file uploaded by our family members. E
 * delivered file needs to independently function without the assistance of frameworks
 * vanilla PHP is the only acceptable approach
 * no frameworks to be used (like Laravel or Slim)
+* PostgreSQL will be used (no other db accepted)
+* code must be SOLID & DRY
+* no more than 3 .PHP files required at run-time 
 
 We need to store all **personal information** records on our personal budget from month to month. We want to store them in a Postgres DB with the following column structure:
 
