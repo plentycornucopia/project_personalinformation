@@ -11,6 +11,7 @@ We need a PHP solution to parse this HTML file uploaded by our family members. E
 * vanilla PHP is the only acceptable approach
 * no frameworks to be used (like Laravel or Slim)
 * PostgreSQL will be used (no other db accepted)
+* Solution must be PHP Version 8.3.7
 * code must be SOLID & DRY
 * no more than 3 .PHP files required at run-time 
 
